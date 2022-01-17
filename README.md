@@ -1,5 +1,5 @@
  Instructions for Unix-like systems:\
- -Install [JavaFX SDK](https://gluonhq.com/products/javafx/)
+ -Install the [JavaFX SDK](https://gluonhq.com/products/javafx/)
     
  -Export the javafx/lib folder path\
     `export PFX='Path/To/JavaFX/lib'`
