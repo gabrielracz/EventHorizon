@@ -19,6 +19,7 @@
      if GPU isn't enabled by default try\
      `java --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml -Dprism.forceGPU=true -jar EH.jar`\
 \
+\
 ![EventHorizon](https://user-images.githubusercontent.com/71713194/149700132-b0062c1a-6f5d-4c8c-8f80-3273cb5d8d47.PNG)
 
 
