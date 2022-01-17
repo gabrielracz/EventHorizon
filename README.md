@@ -6,7 +6,7 @@
     `export PFX='Path/To/JavaFX/lib'`
    
 -Compile java source files\
-    `javac --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml src/*.java -d build/'
+    `javac --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml src/*.java -d build/'`
 
 -Enter build dir\
     `cd build`
