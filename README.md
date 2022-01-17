@@ -15,8 +15,8 @@
     `jar cmf EH.mf EH.jar *.class`
     
 -Run jar\
-    `java --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml -jar EH.jar`
-     if GPU isn't used by default try
+    `java --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml -jar EH.jar`\
+     if GPU isn't used by default try\
      `java --module-path $PFX --add-modules javafx.controls,javafx.base,javafx.fxml -Dprism.forceGPU=true -jar EH.jar`
      
 ![Space2](https://user-images.githubusercontent.com/71713194/149699375-d58b385b-5924-4e37-8b9c-34a89b366265.gif)
