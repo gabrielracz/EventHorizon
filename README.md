@@ -1,4 +1,4 @@
- Instructions on Unix-like systems:\
+ Instructions for Unix-like systems:\
  -Install JavaFX sdk from\ 
     https://gluonhq.com/products/javafx/
     
