@@ -13,7 +13,7 @@ public class SpacePane extends Pane {
     //public static int height = (int) Screen.getPrimary().getBounds().getHeight();
     //public static int width = (int) Screen.getPrimary().getBounds().getWidth()-200;
     private boolean grid = true;
-    public static int height = 1080;
+    public static int height = 1020;
     public static int width = 1920 - 200;
 
     public SpacePane(SpaceView initView){
